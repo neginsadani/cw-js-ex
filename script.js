@@ -58,3 +58,18 @@
 //   };
 
 // -------------------------------------------------------
+
+// 7 - Keep Hydrated!:
+// function litres(time) {
+//     const waterLiters = time * 0.5;
+//    return parseInt(waterLiters);
+//    }
+
+// -------------------------------------------------------
+
+// 8 -Parse nice int from char problem :
+// function getAge(inputString){
+//     const girlAge = parseInt(inputString.charAt(0));
+//      return girlAge;
+//    }
+// -------------------------------------------------------
